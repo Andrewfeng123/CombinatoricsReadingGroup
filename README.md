@@ -1,1 +1,1 @@
-Github repository for a Combinatorics Reading Group started by UofT students Raymond Liu, Lily Zhang, and Andrew Feng. [Link to group website](https://google.com)
+Github repository for a Combinatorics Reading Group started by UofT students Raymond Liu, Lily Zhang, and Andrew Feng.
